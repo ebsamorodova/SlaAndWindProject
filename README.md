@@ -12,12 +12,12 @@
 
 ### Структура проекта
 1. texts
-- thesis - тезис, краткое содержание проекта
-- full_text - полный текст исследовательской работы
+- [thesis_SLA](https://github.com/ebsamorodova/SlaAndWindProject/blob/master/texts/thesis_SLA.pdf) - тезис, краткое содержание проекта
+- [full_text](https://github.com/ebsamorodova/SlaAndWindProject/blob/master/texts/full_text.pdf) - полный текст исследовательской работы
 2. notebooks
-- SaveFilesScript - скрипт, позволяющий загрузить исходные файлы для дальнейшей обработки
-- GetStatisticsFiles - код для проведения 1000 тестов с рандомизированием исходных данных
-- GetSubsetsProbabilityDifference - обработка исходных и перемешанных данных, сравнение полученных результатов
+- [SaveFilesScript](https://github.com/ebsamorodova/SlaAndWindProject/blob/master/notebooks/SaveFilesScrypt.ipynb) - скрипт, позволяющий загрузить исходные файлы для дальнейшей обработки
+- [GetStatisticsFiles](https://github.com/ebsamorodova/SlaAndWindProject/blob/master/notebooks/GetStatisticsFiles.ipynb) - код для проведения 1000 тестов с рандомизированием исходных данных
+- [GetSubsetsProbabilityDifference](https://github.com/ebsamorodova/SlaAndWindProject/blob/master/notebooks/GetSubsetsProbabilityDifference.ipynb) - обработка исходных и перемешанных данных, сравнение полученных результатов
 
 ### Результаты
 <p align="center">
